@@ -10,9 +10,9 @@ Needs ```openssl``` (usually already installed on Mac/Linux).  Tested with ```cy
 
 #### Installation
 
-cd pcrypt /usr/bin (or some place on your $PATH)
+```cp pcrypt /usr/bin``` (or some place on your $PATH)
 
-chmod a+x pcrypt
+```chmod a+x pcrypt```
 
 #### Usage
 
