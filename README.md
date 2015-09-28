@@ -1,6 +1,6 @@
 # pcrypt
 
-#### Public Encryption
+#### Personal Encryption
 
 Shell script to AES encrypt/decrypt files from command line
 
